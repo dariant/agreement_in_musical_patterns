@@ -1,0 +1,40 @@
+computeVectorTable...completed
+computeMtpCisPairs...completed: 781 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 14 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (2.33,1.00) T(P(p(2,49),p(4,48),p(6,46)),V(v(0,0),v(16,0),v(24,0),v(32,0),v(48,0),v(56,0),v(66,-5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 507 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 3 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.78,0.67) T(P(p(0,48),p(8,53),p(10,53),p(11,51),p(12,49),p(14,48),p(16,51),p(24,51)),V(v(0,0),v(32,0)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 188 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 3 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(84,49),p(86,48),p(88,49)),V(v(0,0),v(6,-3)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 121 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 2 translationally distinct MTPs
+Finding best TEC
+
+Best TEC: (1.50,1.00) T(P(p(78,48),p(80,44),p(82,46)),V(v(0,0),v(20,5)))
+computeVectorTable...completed
+computeMtpCisPairs...completed: 61 MTPs found
+
+removeTranslationallyEquivalentMtps
+...DONE: 0 translationally distinct MTPs
+No remaining patterns after trawling, so remainder of dataset returned as TEC!
+
+Best TEC: (1.00,0.46) T(P(p(64,46),p(66,48),p(73,43),p(74,44),p(76,46),p(83,48),p(96,46),p(104,53),p(106,51),p(108,49),p(110,48),p(114,48)),V(v(0,0)))
