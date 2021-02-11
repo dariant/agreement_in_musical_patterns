@@ -229,3 +229,11 @@ This feature represents the ratio between the number of occurrences of the most 
 This feature represents the total ratio of unique notes in a pattern without counting repeated notes. If we consider a pattern $P = \{p_1, p_2, ..., p_l\}$ and $P^{'}$ as the pattern with all duplicate events removed, then this feature is the number of members of $P^{'}$.
 
 ![](/comparison_figures/boxplot_figures/unique_notes.png)
+
+## Feature Correlation Analysis
+
+
+![](/comparison_tables/correlation_PAF.PNG)
+
+![](/comparison_tables/correlation_ANOMIC.PNG)
+
